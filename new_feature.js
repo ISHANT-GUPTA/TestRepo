@@ -1,0 +1,1 @@
+alert("Added a second feature")
