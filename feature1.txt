@@ -1,1 +1,2 @@
 Hello from feature 1!
+Update v1.2
