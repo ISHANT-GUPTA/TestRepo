@@ -5,5 +5,5 @@ def test_add():
     assert add(-2,2)==0
 
 def test_sub():
-    assert(5,3)==2
-    assert(-2,-2)==0
+    assert sub(5,3)==2
+    assert sub(-2,-2)==0
